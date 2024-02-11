@@ -1,0 +1,10 @@
+in Linux distors:
+gitclone 
+
+ls 
+sniffer.py
+
+chmod +x sniffer.py
+
+sudo python3 sniffer.py
+
